@@ -1736,12 +1736,12 @@ grid-template-columns:repeat(3,1fr);
 .footer__social a {
     color: #94a3b8;
     text-decoration: none;
-    padding: 10px 16px;
+    padding: 10px 15px;
     border-radius: 10px;
     background: rgba(255,255,255,.04);
     border: 1px solid rgba(255,255,255,.06);
     transition: .3s;
-    font-size: .9rem;
+    font-size: 1.5rem;
 }
 
 .footer__social a:hover {
